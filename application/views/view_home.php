@@ -37,7 +37,7 @@
 		</div>
 		<div class="row justify-content-center pt-3">
 			<div class="offset-md-4 col-md-6">
-				<a href="<?=base_url('deletar');?>" class="btn btn-warning">Excluir Conta</a>
+				<a href="<?=base_url('delete');?>" class="btn btn-warning">Excluir Conta</a>
 			</div>
 		</div>
 		<?php }else{ ?>
